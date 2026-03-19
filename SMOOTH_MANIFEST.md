@@ -2,25 +2,25 @@
 
 ## Projet
 - Nom: smoothjsonreader
-- Type: mobile (Flutter)
-- Client: Smooth & Design (interne)
-- Statut: archive
+- Description: Read json file and display data in GridView
+- Type: web
+- Client: Smooth & Design
+- Statut: actif
 
 ## Stack
-- Frontend: Flutter / Dart
-- Backend: N/A
-- Auth: N/A
-- Base de données: N/A (lecture fichier JSON local)
-- Autres: N/A
+- Frontend: —
+- Backend: —
+- Auth: —
+- Base de données: —
+- Autres: —
 
 ## Features implémentées
-- Lecture de fichiers JSON
-- Affichage des données JSON dans un GridView
+- (aucune feature détectée — repo minimal ou vide)
 
 ## Patterns notables
-- Architecture: Projet minimaliste, un seul README, pas de code source publié (seul le README est dans le repo)
-- Collections Firestore / tables Supabase: Aucune
-- Conventions de nommage: Préfixe "smooth" pour le branding S&D
+- Architecture: —
+- Collections Firestore / tables Supabase: —
+- Conventions de nommage: snake_case
 
 ## Réutilisabilité
-- Snippets clés: Concept de lecteur JSON générique réutilisable pour d'autres projets Flutter nécessitant un affichage GridView de données JSON
+- Aucun snippet identifié
